@@ -1,0 +1,4 @@
+*__pychache__
+*node_modules
+*.sqlite3
+
